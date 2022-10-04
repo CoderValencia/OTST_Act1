@@ -1,0 +1,69 @@
+Content Credits - One Thousand Sleepless Tales Prologue
+
+Tiles
+
+MV noble interior
+SchwarzeNacht
+https://www.deviantart.com/schwarzenacht/art/MV-noble-interior-647360686
+
+Gothic Furniture
+Nicnubill
+https://www.deviantart.com/nicnubill/art/Gothic-Furniture-404100352
+
+RMMV Furniture - RTP Edits
+Starbird Resources
+https://www.deviantart.com/starbirdresources/art/RMMV-Furniture-RTP-Edits-706691545
+
+PandaMaru MV nature3
+SchwarzeNacht
+https://www.deviantart.com/schwarzenacht/art/PandaMaru-MV-nature3-647358534
+
+Haunted Graveyard - RMMV RTP Edits + More
+Starbird Resources
+https://www.deviantart.com/starbirdresources/art/Haunted-Graveyard-RMMV-RTP-Edits-More-705276186
+
+Custom Tileset RPG MAKER MV
+sipjoss
+https://www.deviantart.com/sipjoss/art/Custom-Tileset-RPG-MAKER-MV-698889626
+
+Statue Decorations
+aweryn
+https://vxresource.files.wordpress.com/2010/02/38189015.png
+
+Building Roof
+aweryn
+https://vxresource.files.wordpress.com/2010/03/tilec.png
+
+RPG Maker VX Ace: Inside B edits
+sarahyt
+https://www.deviantart.com/sarahyt/art/RPG-Maker-VX-Ace-Inside-B-edits-701153669
+
+Plugins
+
+Message Core (YEP) v1.19
+Yanfly
+http://www.yanfly.moe/wiki/Message_Core_(YEP)
+
+Footstep Sounds (YEP) v1.01
+Yanfly
+http://www.yanfly.moe/wiki/Footstep_Sounds_(YEP)
+
+Game Over Core v1.07
+SumRndmDde
+http://sumrndm.site/game-over-core/
+
+Basic Module v1.23
+Victor Engine Plugins
+https://victorenginescripts.wordpress.com/rpg-maker-mv/basic-module/
+
+Fog and Overlay v1.07
+Victor Engine Plugins
+https://victorenginescripts.wordpress.com/rpg-maker-mv/fog-and-overlay/
+
+Filter Controller v2.0.9
+Tsukimi (cji3bp62000)​
+https://forums.rpgmakerweb.com/index.php?threads/pixi-filter-controller-fancy-screen-effects-by-pixi-mz-version-released.90368/
+
+Fonts
+
+Jackwrite Font - https://www.fontspace.com/jackwrite-font-f60971
